@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.egg-info/
+
+# Local audio samples
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# Assignment brief
+Details.txt
+
+.DS_Store
+.idea/
+.vscode/
